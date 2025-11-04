@@ -1,0 +1,13 @@
+C:\Users\Acer\Source\Repos\tpaatividaderep\atividadetpacasorep\bin\Debug\atividadetpacasorep.exe.config
+C:\Users\Acer\Source\Repos\tpaatividaderep\atividadetpacasorep\bin\Debug\atividadetpacasorep.exe
+C:\Users\Acer\Source\Repos\tpaatividaderep\atividadetpacasorep\bin\Debug\atividadetpacasorep.pdb
+C:\Users\Acer\Source\Repos\tpaatividaderep\atividadetpacasorep\obj\Debug\atividadetpacasorep.csproj.AssemblyReference.cache
+C:\Users\Acer\Source\Repos\tpaatividaderep\atividadetpacasorep\obj\Debug\atividadetpacasorep.frmtabuada.resources
+C:\Users\Acer\Source\Repos\tpaatividaderep\atividadetpacasorep\obj\Debug\atividadetpacasorep.frmtemperatura.resources
+C:\Users\Acer\Source\Repos\tpaatividaderep\atividadetpacasorep\obj\Debug\atividadetpacasorep.frmareacasa.resources
+C:\Users\Acer\Source\Repos\tpaatividaderep\atividadetpacasorep\obj\Debug\atividadetpacasorep.Properties.Resources.resources
+C:\Users\Acer\Source\Repos\tpaatividaderep\atividadetpacasorep\obj\Debug\atividadetpacasorep.csproj.GenerateResource.cache
+C:\Users\Acer\Source\Repos\tpaatividaderep\atividadetpacasorep\obj\Debug\atividadetpacasorep.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Source\Repos\tpaatividaderep\atividadetpacasorep\obj\Debug\atividadetpacasorep.exe
+C:\Users\Acer\Source\Repos\tpaatividaderep\atividadetpacasorep\obj\Debug\atividadetpacasorep.pdb
+C:\Users\Acer\Source\Repos\tpaatividaderep\atividadetpacasorep\obj\Debug\atividadetpacasorep.exe.config

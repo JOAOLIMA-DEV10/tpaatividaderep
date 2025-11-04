@@ -48,9 +48,10 @@
             // 
             // txtresult
             // 
-            this.txtresult.Location = new System.Drawing.Point(267, 112);
+            this.txtresult.Location = new System.Drawing.Point(265, 109);
+            this.txtresult.Multiline = true;
             this.txtresult.Name = "txtresult";
-            this.txtresult.Size = new System.Drawing.Size(100, 20);
+            this.txtresult.Size = new System.Drawing.Size(100, 166);
             this.txtresult.TabIndex = 1;
             // 
             // btnpara
@@ -61,6 +62,7 @@
             this.btnpara.TabIndex = 2;
             this.btnpara.Text = "para";
             this.btnpara.UseVisualStyleBackColor = true;
+            this.btnpara.Click += new System.EventHandler(this.btnpara_Click);
             // 
             // btnlimpar
             // 
@@ -70,6 +72,7 @@
             this.btnlimpar.TabIndex = 3;
             this.btnlimpar.Text = "limpar";
             this.btnlimpar.UseVisualStyleBackColor = true;
+            this.btnlimpar.Click += new System.EventHandler(this.btnlimpar_Click);
             // 
             // btnenqaunto
             // 
@@ -79,6 +82,7 @@
             this.btnenqaunto.TabIndex = 4;
             this.btnenqaunto.Text = "enquanto";
             this.btnenqaunto.UseVisualStyleBackColor = true;
+            this.btnenqaunto.Click += new System.EventHandler(this.btnenqaunto_Click);
             // 
             // btnfaca
             // 
@@ -88,6 +92,7 @@
             this.btnfaca.TabIndex = 5;
             this.btnfaca.Text = "faca ";
             this.btnfaca.UseVisualStyleBackColor = true;
+            this.btnfaca.Click += new System.EventHandler(this.btnfaca_Click);
             // 
             // btnvoltar
             // 

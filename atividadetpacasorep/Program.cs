@@ -16,7 +16,7 @@ namespace atividadetpacasorep
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmtabuada());
+            Application.Run(new frmtemperatura());
         }
     }
 }
