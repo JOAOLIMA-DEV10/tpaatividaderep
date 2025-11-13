@@ -71,6 +71,11 @@ namespace atividadetpacasorep
             txtresult.Clear();
         }
 
-       
+        private void btnvoltar_Click(object sender, EventArgs e)
+        {
+            frmmenu menu = new frmmenu();
+            menu.Show();
+            this.Hide();
+        }
     }
 }

@@ -102,6 +102,7 @@
             this.btnvoltar.TabIndex = 6;
             this.btnvoltar.Text = "voltar";
             this.btnvoltar.UseVisualStyleBackColor = true;
+            this.btnvoltar.Click += new System.EventHandler(this.btnvoltar_Click);
             // 
             // frmtemperatura
             // 

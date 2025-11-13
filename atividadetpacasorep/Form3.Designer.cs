@@ -33,7 +33,7 @@
             this.lblareac = new System.Windows.Forms.Label();
             this.lblarear = new System.Windows.Forms.Label();
             this.txtlargura = new System.Windows.Forms.TextBox();
-            this.txtcomprimento = new System.Windows.Forms.TextBox();
+            this.txtcomp = new System.Windows.Forms.TextBox();
             this.txtareac = new System.Windows.Forms.TextBox();
             this.txtarear = new System.Windows.Forms.TextBox();
             this.btnenquanto = new System.Windows.Forms.Button();
@@ -86,12 +86,12 @@
             this.txtlargura.Size = new System.Drawing.Size(100, 20);
             this.txtlargura.TabIndex = 5;
             // 
-            // txtcomprimento
+            // txtcomp
             // 
-            this.txtcomprimento.Location = new System.Drawing.Point(202, 112);
-            this.txtcomprimento.Name = "txtcomprimento";
-            this.txtcomprimento.Size = new System.Drawing.Size(100, 20);
-            this.txtcomprimento.TabIndex = 6;
+            this.txtcomp.Location = new System.Drawing.Point(202, 112);
+            this.txtcomp.Name = "txtcomp";
+            this.txtcomp.Size = new System.Drawing.Size(100, 20);
+            this.txtcomp.TabIndex = 6;
             // 
             // txtareac
             // 
@@ -133,6 +133,7 @@
             this.btnpara.TabIndex = 11;
             this.btnpara.Text = "para";
             this.btnpara.UseVisualStyleBackColor = true;
+            this.btnpara.Click += new System.EventHandler(this.btnpara_Click);
             // 
             // btnlimpar
             // 
@@ -151,6 +152,7 @@
             this.btnvoltar.TabIndex = 13;
             this.btnvoltar.Text = "voltar";
             this.btnvoltar.UseVisualStyleBackColor = true;
+            this.btnvoltar.Click += new System.EventHandler(this.btnvoltar_Click);
             // 
             // frmareacasa
             // 
@@ -164,7 +166,7 @@
             this.Controls.Add(this.btnenquanto);
             this.Controls.Add(this.txtarear);
             this.Controls.Add(this.txtareac);
-            this.Controls.Add(this.txtcomprimento);
+            this.Controls.Add(this.txtcomp);
             this.Controls.Add(this.txtlargura);
             this.Controls.Add(this.lblarear);
             this.Controls.Add(this.lblareac);
@@ -184,7 +186,7 @@
         private System.Windows.Forms.Label lblareac;
         private System.Windows.Forms.Label lblarear;
         private System.Windows.Forms.TextBox txtlargura;
-        private System.Windows.Forms.TextBox txtcomprimento;
+        private System.Windows.Forms.TextBox txtcomp;
         private System.Windows.Forms.TextBox txtareac;
         private System.Windows.Forms.TextBox txtarear;
         private System.Windows.Forms.Button btnenquanto;

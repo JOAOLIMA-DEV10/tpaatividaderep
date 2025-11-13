@@ -64,6 +64,7 @@
             this.btnvoltar.TabIndex = 2;
             this.btnvoltar.Text = "voltar";
             this.btnvoltar.UseVisualStyleBackColor = true;
+            this.btnvoltar.Click += new System.EventHandler(this.btnvoltar_Click);
             // 
             // btnpara
             // 
